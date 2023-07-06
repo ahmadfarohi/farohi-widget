@@ -1,4 +1,6 @@
-# uas-farohi
+# UAS LAB PBK
+# AHMAD FAROHI
+# 213510239
 
 ## Project setup
 ```
